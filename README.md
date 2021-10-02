@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AMDINDOWS
 - 👀 I’m interested in ...Python, C, Crypto & Lots of Fun 
-- 🌱 I’m currently doing ...Masters Cyber Security
+- 🌱 I’m currently doing ... Something Anything Everything that helps.
 - 💞️ I’m looking to collaborate on ...Vulnerability Scanner and Fuzzing Projects
 - 📫 How to reach me ...ayuhsmaurya@hotmail.com
 
