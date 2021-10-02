@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AMDINDOWS
-- 👀 I’m interested in ...Python,C, Java , Crypto 
+- 👀 I’m interested in ...Python, C, Crypto & Lots of Fun 
 - 🌱 I’m currently doing ...Masters Cyber Security
 - 💞️ I’m looking to collaborate on ...Vulnerability Scanner and Fuzzing Projects
 - 📫 How to reach me ...ayuhsmaurya@hotmail.com
